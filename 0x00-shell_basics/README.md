@@ -1,1 +1,1 @@
-symbol
+smbol
