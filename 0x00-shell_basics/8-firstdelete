@@ -1,2 +1,2 @@
 #!/bin/bash
-rm / tmp/my_first_directory/betty
+ls /tmp/my_first_directory/betty
