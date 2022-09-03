@@ -1,1 +1,1 @@
-shell_permission
+shell_permissions
